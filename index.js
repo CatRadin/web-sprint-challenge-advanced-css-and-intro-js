@@ -324,16 +324,19 @@ For example lotsOfArt(artists); will return ["Amedeo Modigliani", "Rene Magritte
 
 function lotsOfArt(artArray)
 {
-  let artNew = [];
-  for(let i in artArray)
+ let paintingz = [];
+for ( let i = 0; i < artArray.length; i++)
+{
+  if (artArray[i].paintings > 100)
   {
-    if(artArray[i].paintings > 100)
-    {
-      artNew.push(artArray[i].name)
-    }
+    paintingz.push(artArray[i].name);
   }
-  return artNew
 }
+return paintingz;
+}
+
+// lotsOfArt(artists);
+
 
 
 
