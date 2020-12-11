@@ -335,7 +335,7 @@ for ( let i = 0; i < artArray.length; i++)
 return paintingz;
 }
 
-// lotsOfArt(artists);
+
 
 
 
