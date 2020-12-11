@@ -24,7 +24,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. How would you describe acessibility on the web to someone new to programming?
 
-It is so important to have acessibility in mind when designing and coding web applications. You want everyone to have a good experience on your application. Without taking acessibility to mind you will find that those with disabilities cannot use your application. Making things acessible benefits everyone. Youc an do this by thinking about color schemes or making sure that everything can be percived, understood and can be navigated without sight.
+It is so important to have acessibility in mind when designing and coding web applications. You want everyone to have a good experience on your application. Without taking acessibility to mind you will find that those with disabilities cannot use your application. Making things acessible benefits everyone. You can do this by thinking about color schemes or making sure that everything can be percived, understood and can be navigated without sight.
 
 2. Talk about 3 different things you can do to ensure your website is accessible.
 
@@ -38,6 +38,8 @@ A variable holds data. You can assign the data to the variable using keywords li
 let testingLet = 32; You use the keyword and then assign the data a name so it can be used in your code. You then use the = to assign the data!
 
 4. What is the purpose of using functions in code?
+
+Functions are used to do something in the code. To solve problems. You invoke what is written inside the code to get new data or change exsisting data.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
